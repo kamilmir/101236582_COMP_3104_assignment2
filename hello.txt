@@ -1,0 +1,3 @@
+Abulaiti-Mierkamili
+101236582
+Git repository created from AWS EC2 instance
